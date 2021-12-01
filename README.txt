@@ -16,6 +16,7 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
+Alterations and formatting changes have been made by Tristan Phillips
 
 Credits:
 
